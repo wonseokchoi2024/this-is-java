@@ -23,5 +23,8 @@ public class Test {
         // 결과 출력
         System.out.println("1부터 100000까지의 합: " + sum);
         System.out.println("실행 시간: " + (endTime - startTime) + " 나노초");
+        System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
+
+
     }
 }
